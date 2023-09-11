@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{E81FA46C-4319-A8F2-8622-8CBF28CB956C}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FPSMobile",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
